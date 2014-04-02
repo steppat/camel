@@ -5,7 +5,6 @@
             <formato>EBOOK</formato>
             <quantidade>1</quantidade>
             <livro>
-                <codigo>XXX</codigo>
                 <titulo>SOA aplicado: Integrando com web services e além</titulo>
                 <tituloCurto>SOA</tituloCurto>
                 <nomeAutor>Alexandre Saudate</nomeAutor>
