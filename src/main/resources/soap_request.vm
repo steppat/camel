@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:v1="http://caelum.com.br/estoquews/v1">
+   <soapenv:Header>
+      <v1:tokenUsuario>${headers.tokenUser}</v1:tokenUsuario>
+   </soapenv:Header>
+   <soapenv:Body>
+      <v1:ItensPeloCodigo>
+         <codigo>${body}</codigo>
+      </v1:ItensPeloCodigo>
+   </soapenv:Body>
+</soapenv:Envelope>

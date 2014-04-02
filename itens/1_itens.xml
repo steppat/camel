@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<itens>
+	<id>1</id>
+	<item>
+		<formato>EBOOK</formato>
+		<quantidade>1</quantidade>
+		<livro>
+			<codigo>TDD</codigo>
+			<titulo>Test-Driven Development: Teste e Design no Mundo Real
+			</titulo>
+			<tituloCurto>TDD</tituloCurto>
+			<nomeAutor>Mauricio Aniche</nomeAutor>
+			<valorEbook>29.90</valorEbook>
+			<valorImpresso>59.90</valorImpresso>
+		</livro>
+	</item>
+</itens>
