@@ -5,7 +5,7 @@
 	<artifactId>camel</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>modelmapper</name>
+	<name>camel</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 
@@ -39,6 +39,7 @@
 			<artifactId>slf4j-log4j12</artifactId>
 			<version>1.7.6</version>
 		</dependency>
-		            
+		
 	</dependencies>
+	
 </project>
